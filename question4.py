@@ -21,4 +21,3 @@ print(f"digits: {digitbox}")
 print(f"spaces: {spacebox}")
 print(f"others: {otherbox}")
 
-
